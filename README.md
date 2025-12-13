@@ -19,6 +19,6 @@ Hướng dẫn nhanh
 	- x86 (Windows): MASM hoặc các công cụ tương đương
 	- x86 (NASM): `nasm` + `ld` (trên hệ thống tương thích)
 
-Tác giả
+Tác giả phần bài làm
 - Nguyen Huu Hoang Hai Anh (MSSV: 20226010). 
 
